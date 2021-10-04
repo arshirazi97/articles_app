@@ -23,6 +23,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'bcrypt', '~> 3.1.7'
 
 gem 'will_paginate', '3.2.1'
+gem 'rexml', require: false
 gem 'will_paginate-bootstrap4'
 
 # Use Active Storage variant
